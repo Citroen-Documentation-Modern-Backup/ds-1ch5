@@ -1,0 +1,253 @@
+{
+ "ref": "057008922510B",
+ "refDisplay": "0570 08 922510B",
+ "title": "ARMATURE SIEGE AV - GLISSIERE - CARTER",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE ET COTE PASSAGER ET REHAUSSE PASSAGER REGLAGE AVANT ET CDE SIEGE AV MANUEL PASSAGER OU CONDUITE A DROITE ET COTE PASSAGER ET REHAUSSE PASSAGER REGLAGE AVANT ET CDE SIEGE AV MANUEL + RELAX",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKD",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKD",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FBF",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FBF",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKE",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKE",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FCC",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FCC",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKN",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKN",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKH",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKH",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKB",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKB",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FLB",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FLB",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FCR",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FCR",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKU",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKU",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBM",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBM",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKD",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKD",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBF",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBF",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKE",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKE",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCC",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCC",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKN",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKN",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKH",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKH",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCA",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCA",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKB",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKB",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FLB",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FLB",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCR",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCR",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKU",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKU",
+   "fctId": "FCT0333"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "057002532040D",
+ "refDisplay": "0570 02 532040D",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "AVEC STOP AND START ALTERNO DEMARREUR ET REFRIGERATION REGULEE OU AVEC STOP AND START ALTERNO DEMARREUR ET REFRIGERATION AUTOMATIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FBF",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBF",
+   "fctId": "FCT0303"
+  }
+ ]
+}

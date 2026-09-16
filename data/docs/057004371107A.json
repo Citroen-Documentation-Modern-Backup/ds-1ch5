@@ -1,0 +1,133 @@
+{
+ "ref": "057004371107A",
+ "refDisplay": "0570 04 371107A",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": "BVM BE4R ET MOTEUR TYPE EV/DV",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FBF",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKE",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FCC",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKN",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKH",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKB",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FLB",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FCR",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKU",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBM",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBF",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKE",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCC",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKN",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKH",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCA",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKB",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FLB",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCR",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKU",
+   "fctId": "FCT0022"
+  }
+ ]
+}

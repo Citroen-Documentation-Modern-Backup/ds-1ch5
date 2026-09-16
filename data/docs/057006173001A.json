@@ -1,0 +1,23 @@
+{
+ "ref": "057006173001A",
+ "refDisplay": "0570 06 173001A",
+ "title": "CANALISATION FIX FILTRE CARBURANT",
+ "nature": "",
+ "applicability": "EMPATTEMENT 2785 ET FILTRE RESERVOIR INTERIEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCA",
+   "fctId": "FCT0010"
+  }
+ ]
+}

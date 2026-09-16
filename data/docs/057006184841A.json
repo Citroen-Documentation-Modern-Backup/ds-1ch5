@@ -1,0 +1,18 @@
+{
+ "ref": "057006184841A",
+ "refDisplay": "0570 06 184841A",
+ "title": "ECHAPPEMENT INTERMEDIAIRE ET AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCC",
+   "fctId": "FCT0011"
+  }
+ ]
+}

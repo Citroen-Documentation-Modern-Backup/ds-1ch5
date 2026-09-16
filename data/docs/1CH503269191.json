@@ -1,0 +1,54 @@
+{
+ "ref": "1CH503269191",
+ "refDisplay": "1CH5 0 326 9191",
+ "title": "GARNITURES LATERALES COFFRE 2 COTES",
+ "nature": "",
+ "applicability": "(003I) C4 PICASSO (B78) BREAK LOISIRS DIESEL TURBO DV6C BVM6 OU (0030) C4 PICASSO (B78) BREAK LOISIRS DIESEL TURBO DV6C BVM PILOTEE 6 RAPPORTS STT OU (002Y) C4 PICASSO (B78) BREAK LOISIRS DIESEL TURBO DV6C BVM 6 RAPPORTS TYPE STT",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBM",
+   "fctId": "FCT0122"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBM",
+   "fctId": "FCT0234"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBF",
+   "fctId": "FCT0122"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBF",
+   "fctId": "FCT0234"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCC",
+   "fctId": "FCT0122"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCC",
+   "fctId": "FCT0234"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCA",
+   "fctId": "FCT0122"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCA",
+   "fctId": "FCT0234"
+  }
+ ]
+}

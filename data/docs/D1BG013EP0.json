@@ -1,0 +1,25 @@
+{
+ "ref": "D1BG013EP0",
+ "refDisplay": "D1BG013EP0",
+ "title": "Dépose - repose : démarreur",
+ "nature": "Dépose-pose",
+ "applicability": "BVM BE4R",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0302"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCA",
+   "fctId": "FCT0302"
+  }
+ ]
+}

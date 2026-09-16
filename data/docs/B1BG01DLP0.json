@@ -1,0 +1,35 @@
+{
+ "ref": "B1BG01DLP0",
+ "refDisplay": "B1BG01DLP0",
+ "title": "Dépose - repose : ensemble moteur-boîte de vitesses",
+ "nature": "Dépose-pose",
+ "applicability": "BVM MC ET BVM6",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FCC",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FCC",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCC",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCC",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "057002532045B",
+ "refDisplay": "0570 02 532045B",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "SANS STOP AND START ET REFRIGERATION AUTOMATIQUE OU SANS STOP AND START ET REFRIGERATION REGULEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBM",
+   "fctId": "FCT0303"
+  }
+ ]
+}

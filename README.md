@@ -1,0 +1,5 @@
+# C4 PICASSO (B78) (1CH5)
+
+Dataset for the Citroën documentation archive: 2101 documents and 4320 images for this vehicle, generated on 2026-09-16.
+
+Browse it at https://citroen-documentation-modern-backup.github.io/#/v/1CH5 — this repository holds data only; the viewer and the build tooling live in the archive's main repository.

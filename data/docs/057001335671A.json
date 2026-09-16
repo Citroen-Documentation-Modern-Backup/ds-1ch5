@@ -1,0 +1,23 @@
+{
+ "ref": "057001335671A",
+ "refDisplay": "0570 01 335671A",
+ "title": "ACTIONNEUR BOITE DE VITESSES PILOTEE",
+ "nature": "",
+ "applicability": "BVM PILOTEE 6 RAPPORTS STT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBM",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "ref": "D1AG0167P0",
+ "refDisplay": "D1AG0167P0",
+ "title": "Dépose - repose : Alternateur réversible",
+ "nature": "Dépose-pose",
+ "applicability": "AVEC STOP AND START ALTERNO DEMARREUR",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FBF",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBM",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBF",
+   "fctId": "FCT0303"
+  }
+ ]
+}

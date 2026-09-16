@@ -1,0 +1,23 @@
+{
+ "ref": "057001330040B",
+ "refDisplay": "0570 01 330040B",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM PILOTEE 6 RAPPORTS STT ET BVM MCD ET CP 19 X 74",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBM",
+   "fctId": "FCT0017"
+  }
+ ]
+}

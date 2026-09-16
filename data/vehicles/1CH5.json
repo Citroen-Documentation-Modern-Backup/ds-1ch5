@@ -1,0 +1,275 @@
+{
+ "ldp": "1CH5",
+ "label": "C4 PICASSO (B78)",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0DAF",
+     "lib": "BERLINE FAMILIALE"
+    },
+    {
+     "val": "B0DCL",
+     "lib": "BREAK LOISIRS"
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0FBM",
+     "lib": "1.6 HDI (DV6C)"
+    },
+    {
+     "val": "B0FKD",
+     "lib": "1.6 HDi 115 FAP (DV6FC)"
+    },
+    {
+     "val": "B0FBF",
+     "lib": "1.6 HDi 92 (DV6DTED)"
+    },
+    {
+     "val": "B0FKE",
+     "lib": "1.6 HDi 95 FAP (DV6FD)"
+    },
+    {
+     "val": "B0FCC",
+     "lib": "1.6 THP 16v 156"
+    },
+    {
+     "val": "B0FKN",
+     "lib": "1.6 THP 16v 163 (EP6FDT M)"
+    },
+    {
+     "val": "B0FKH",
+     "lib": "1.6 THP 16v 163 (EP6FDT)"
+    },
+    {
+     "val": "B0FCA",
+     "lib": "1.6 VTi 16v 120"
+    },
+    {
+     "val": "B0FKB",
+     "lib": "2.0 HDi 150 FAP"
+    },
+    {
+     "val": "B0FLB",
+     "lib": "DW10FD FAP 100KW 1997 DIES"
+    },
+    {
+     "val": "B0FCR",
+     "lib": "INJECTION EB2DTS 96KW"
+    },
+    {
+     "val": "B0FKU",
+     "lib": "INJECTION EP6FDT MD 110KW ESSENCE"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0DAF&B0F=B0FBM",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FBM"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 HDI (DV6C)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FKD",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FKD"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 HDi 115 FAP (DV6FC)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FBF",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FBF"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 HDi 92 (DV6DTED)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FKE",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FKE"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 HDi 95 FAP (DV6FD)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FCC",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FCC"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 THP 16v 156"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FKN",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FKN"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 THP 16v 163 (EP6FDT M)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FKH",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FKH"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 THP 16v 163 (EP6FDT)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FCA",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FCA"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 VTi 16v 120"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FKB",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FKB"
+   },
+   "label": "BERLINE FAMILIALE · 2.0 HDi 150 FAP"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FLB",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FLB"
+   },
+   "label": "BERLINE FAMILIALE · DW10FD FAP 100KW 1997 DIES"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FCR",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FCR"
+   },
+   "label": "BERLINE FAMILIALE · INJECTION EB2DTS 96KW"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FKU",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FKU"
+   },
+   "label": "BERLINE FAMILIALE · INJECTION EP6FDT MD 110KW ESSENCE"
+  },
+  {
+   "key": "B0D=B0DCL&B0F=B0FBM",
+   "selections": {
+    "B0D": "B0DCL",
+    "B0F": "B0FBM"
+   },
+   "label": "BREAK LOISIRS · 1.6 HDI (DV6C)"
+  },
+  {
+   "key": "B0D=B0DCL&B0F=B0FKD",
+   "selections": {
+    "B0D": "B0DCL",
+    "B0F": "B0FKD"
+   },
+   "label": "BREAK LOISIRS · 1.6 HDi 115 FAP (DV6FC)"
+  },
+  {
+   "key": "B0D=B0DCL&B0F=B0FBF",
+   "selections": {
+    "B0D": "B0DCL",
+    "B0F": "B0FBF"
+   },
+   "label": "BREAK LOISIRS · 1.6 HDi 92 (DV6DTED)"
+  },
+  {
+   "key": "B0D=B0DCL&B0F=B0FKE",
+   "selections": {
+    "B0D": "B0DCL",
+    "B0F": "B0FKE"
+   },
+   "label": "BREAK LOISIRS · 1.6 HDi 95 FAP (DV6FD)"
+  },
+  {
+   "key": "B0D=B0DCL&B0F=B0FCC",
+   "selections": {
+    "B0D": "B0DCL",
+    "B0F": "B0FCC"
+   },
+   "label": "BREAK LOISIRS · 1.6 THP 16v 156"
+  },
+  {
+   "key": "B0D=B0DCL&B0F=B0FKN",
+   "selections": {
+    "B0D": "B0DCL",
+    "B0F": "B0FKN"
+   },
+   "label": "BREAK LOISIRS · 1.6 THP 16v 163 (EP6FDT M)"
+  },
+  {
+   "key": "B0D=B0DCL&B0F=B0FKH",
+   "selections": {
+    "B0D": "B0DCL",
+    "B0F": "B0FKH"
+   },
+   "label": "BREAK LOISIRS · 1.6 THP 16v 163 (EP6FDT)"
+  },
+  {
+   "key": "B0D=B0DCL&B0F=B0FCA",
+   "selections": {
+    "B0D": "B0DCL",
+    "B0F": "B0FCA"
+   },
+   "label": "BREAK LOISIRS · 1.6 VTi 16v 120"
+  },
+  {
+   "key": "B0D=B0DCL&B0F=B0FKB",
+   "selections": {
+    "B0D": "B0DCL",
+    "B0F": "B0FKB"
+   },
+   "label": "BREAK LOISIRS · 2.0 HDi 150 FAP"
+  },
+  {
+   "key": "B0D=B0DCL&B0F=B0FLB",
+   "selections": {
+    "B0D": "B0DCL",
+    "B0F": "B0FLB"
+   },
+   "label": "BREAK LOISIRS · DW10FD FAP 100KW 1997 DIES"
+  },
+  {
+   "key": "B0D=B0DCL&B0F=B0FCR",
+   "selections": {
+    "B0D": "B0DCL",
+    "B0F": "B0FCR"
+   },
+   "label": "BREAK LOISIRS · INJECTION EB2DTS 96KW"
+  },
+  {
+   "key": "B0D=B0DCL&B0F=B0FKU",
+   "selections": {
+    "B0D": "B0DCL",
+    "B0F": "B0FKU"
+   },
+   "label": "BREAK LOISIRS · INJECTION EP6FDT MD 110KW ESSENCE"
+  }
+ ]
+}

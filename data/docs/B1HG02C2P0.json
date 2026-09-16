@@ -1,0 +1,25 @@
+{
+ "ref": "B1HG02C2P0",
+ "refDisplay": "B1HG02C2P0",
+ "title": "Dépose - repose : Canalisation chauffante d’urée",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKB",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKB",
+   "fctId": "FCT0010"
+  }
+ ]
+}
